@@ -1,1 +1,1 @@
-![home page](images/canva_templates_for_you.png)
+![home page](images/canvatemplatesforyou.png)

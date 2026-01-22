@@ -5,7 +5,6 @@
 ![website UI](images/website.png)
 ##template
 ![canva template/poster](images/template.png)
-![banner](images/banner.jpeg)
 ##wallpaper or logo
 ![logo](images/logo.jpeg)
 ##book store website's logo

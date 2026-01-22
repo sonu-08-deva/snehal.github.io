@@ -1,6 +1,6 @@
-##some projects and designs
+#some projects and designs
 ##single webpage using html,css & bootstrap
-![single page](images/page.jpeg
+![single page](images/page.jpeg)
 ##e-commerce website's layout
 ![website UI](images/website.png)
 ##template
